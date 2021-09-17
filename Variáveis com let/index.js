@@ -24,6 +24,6 @@ console.log(nome);
  */
 
 let nomeCliente = 'Diego';
-let nomecliente = 'Santos';
+nomecliente = 'Santos';
 
 console.log(nomeCliente, nomecliente);
