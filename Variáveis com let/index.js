@@ -14,6 +14,7 @@ nome = 'Diego';
 console.log(nome);
 
 /**Regras para criar as variáveis:
+ * Não podemos criar variáveis com palavras reservadas;
  * Variáveis precisam ter nomes significativos;
  * Não pode começar o nome de uma variável com número;
  * Não pode conter espaços ou traços;
