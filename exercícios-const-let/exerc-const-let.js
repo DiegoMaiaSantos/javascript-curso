@@ -8,3 +8,4 @@ const idade = 31;
 const peso = 70;
 const altura = 1.75;
 
+let imc; // peso / (altura * altura)
