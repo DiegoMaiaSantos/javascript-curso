@@ -13,3 +13,7 @@ let anoNascimento = 2021 - idade;
 
 console.log(imc)
 console.log(anoNascimento)
+
+console.log(nome, sobrenome, 'tem' , idade, 'anos, pesa' , peso, 'kg e')
+console.log('tem' ,altura, 'm de altura e seu IMC é de' ,imc)
+console.log(nome, sobrenome, 'nasceu no ano de' ,anoNascimento, '.')
