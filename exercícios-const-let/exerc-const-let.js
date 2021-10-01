@@ -8,7 +8,7 @@ const sobrenome = 'Santos';
 const idade = 31;
 const peso = 69;
 const altura = 1.75;
-let imc = peso / (altura * altura); // peso / (altura * altura)
+let imc = peso / (altura * altura); // peso / (altura * altura) ou peso / (altura ^ 2)
 let anoNascimento = 2021 - idade;
 
 console.log(imc)
