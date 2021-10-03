@@ -3,7 +3,7 @@ tem 1.80 de altura e seu IMC é de 25.92592592525924
 Luiz Otávio nasceu em 1980
 */
 
-const nome = 'Diego Maia'; // const não podem ser alteradas e let podem ser alteradas
+const nome = 'Diego Maia'; // const não podem ser alteradas e let podem ser alteradas.
 const sobrenome = 'Santos';
 const idade = 31;
 const peso = 69;
