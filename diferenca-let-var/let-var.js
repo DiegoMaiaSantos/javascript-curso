@@ -7,6 +7,6 @@ var nome = 'Otávio'
 
 console.log(nome);
 
-nome01 = 'Diego'; // Não faça isso!
+nome01 = 'Diego'; // Não faça isso! Sempre usar a expressão da variável.
 
 console.log(nome01)
