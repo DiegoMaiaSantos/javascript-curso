@@ -1,6 +1,6 @@
 // ECMAScript 2015 (ES6) JavaScript
 
-// let não redeclara a variável.
+// let não redeclara a variável. Importante!
 
 var nome = 'Luiz';
 var nome = 'Otávio'
