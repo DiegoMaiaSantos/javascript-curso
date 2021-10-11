@@ -34,3 +34,15 @@ console.log(contador1);
 let contador2 = 2;
 contador2 += 2;
 console.log(contador2);
+
+let contador3 = 2;
+contador3 **= 10;
+console.log(contador3);
+
+// NaN - Not a number. 
+// parseInt(Inteiro) parseFloat(Decimais). Melhor usar só Number.
+
+const num01 = 10;
+const num02 = Number('5.2');
+console.log(num01 + num02);
+console.log(typeof num02);
