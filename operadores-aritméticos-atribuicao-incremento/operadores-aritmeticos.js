@@ -18,9 +18,19 @@ const num2 = 2;
 const num3 = 10
 console.log((num1 + num2) * num3);
 
-let contador = 1;
-contador++; // 2
-contador++; // 3
+let contador = 1; // Só é possivel realizar alterações com let.
+contador++; // 2 / Também podemos usar assim ++contador. Incremento. Pre e pós.
+contador++; // 3 / Existe o --. Ex. --contador ou contador--. Decremento. Pre e pós.
 contador++; // 4
 contador++; // 5
 console.log(contador);
+
+// Operadores de atribuição.
+
+let contador1 = 2;
+contador1 *= 10;
+console.log(contador1);
+
+let contador2 = 2;
+contador2 += 2;
+console.log(contador2);
