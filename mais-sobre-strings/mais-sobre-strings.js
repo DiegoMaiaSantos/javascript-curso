@@ -14,5 +14,6 @@ console.log(umaString.search(/[a-z]/));
 console.log(umaString.replace('Um', 'Outro'));
 console.log(umaString.length);
 console.log(umaString.slice(0, 10)); // Pode-se usar negativo Ex.: -3.
+console.log(umaString.split(' '));
 console.log(umaString.toUpperCase());
 console.log(umaString.toLowerCase());
