@@ -13,8 +13,8 @@ console.log(alunos);
 // alunos.push('Fábio');
 
 // alunos[alunos.length] = 'Luiza'; // Vai ser incluido um novo valor pois o nome não existe. No final.
-// alunos[alunos.length] = 'Fábio'; // Vai ser incluido um novo valor pois o nome não existe.
-// alunos[alunos.length] = 'Luana'; // Vai ser incluido um novo valor pois o nome não existe.
+// alunos[alunos.length] = 'Fábio';
+// alunos[alunos.length] = 'Luana';
 
 //alunos[0] = 'Eduardo'; // Muda o número especificado.
 //alunos[3] = 'Luiza'; // Inclui mais um nome.
