@@ -5,7 +5,7 @@ const alunos = ['Luiz', 'Maria', 'João'];
 
 console.log(alunos);
 
-// alunos.unshift('Luiza'); // Inclui no começo.
+// alunos.unshift('Luiza'); // Inclui no começo. O novo nome.
 // alunos.unshift('Fábio');// O que vem depois vai ser sempre o primeiro.
 
 
