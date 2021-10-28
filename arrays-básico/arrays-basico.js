@@ -2,7 +2,23 @@
 
 //               0       1        2
 const alunos = ['Luiz', 'Maria', 'João'];
-console.log(alunos);
+
+console.log(typeof alunos);
+console.log(alunos instanceof Array);
+
+//alunos.push('Luiza'); // Inclui um novo elemento ao final.
+//alunos.push('Eduardo');
+
+//console.log(alunos.slice(0, -2)); // Seleciona o elemento.
+
+// delete alunos[1]; // deleta o local com a númeração.
+
+// const removido = alunos.shift(); // A funcition shift() remove do inicio.
+// console.log(removido);
+// console.log(alunos);
+
+// const removido = alunos.pop(); // A function pop() remove do final.
+// console.log(removido);
 
 // alunos.unshift('Luiza'); // Inclui no começo. O novo nome.
 // alunos.unshift('Fábio');// O que vem depois vai ser sempre o primeiro.
