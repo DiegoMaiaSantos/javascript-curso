@@ -1,11 +1,17 @@
+const raiz3 = n3 => n3 ** 0.5;
 
+console.log(raiz3(9));
 
+const raiz2 = (n2) => {  // A "=>" serve para dar a função.
+    return n2 ** 0.5;
+};
+
+console.log(raiz2(9));
 
 const raiz = function (n) {
     return n ** 0.5;
 }; // Sempre que atribuir a variável o valor da função, é preciso colocar ";" no final.
 
-console.log(raiz(9));
 console.log(raiz(16));
 console.log(raiz(25));
 
