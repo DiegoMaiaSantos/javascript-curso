@@ -1,10 +1,28 @@
+const pessoa6 = {
+    nome: 'Luiz',
+    sobrenome: 'Miranda',
+    idade: 25,
+
+    fala() {
+        console.log(`A minha idade atual é ${this.idade}`);        
+    },
+
+    incrementaIdade() {
+        ++this.idade;
+    }
+};
+
+pessoa6.fala();
+pessoa6.incrementaIdade();
+pessoa6.fala();
+pessoa6.incrementaIdade();
+pessoa6.fala();
+pessoa6.incrementaIdade();
+pessoa6.fala();
+
 
 function criaPessoa(nome, sobrenome, idade) {
-    return {
-        nome: nome,
-        sobrenome: sobrenome,
-        idade: idade
-    };
+    return {nome, sobrenome, idade};
 }
 
 const pessoa1 = criaPessoa('Luiz', 'Miranda', 25);
