@@ -1,3 +1,4 @@
+// Objetos (básico)
 
 const pessoa6 = {
     nome: 'Luiz',
