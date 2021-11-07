@@ -21,9 +21,6 @@ pessoa6.incrementaIdade();
 pessoa6.fala();
 pessoa6.incrementaIdade();
 pessoa6.fala();
-pessoa6.incrementaIdade();
-pessoa6.fala();
-
 
 function criaPessoa(nome, sobrenome, idade) {
     return {nome, sobrenome, idade};
