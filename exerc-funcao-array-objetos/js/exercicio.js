@@ -1,5 +1,7 @@
 // Exercício com funções, array e objetos.
 
+
+
 function meuEscopo() {
     const form = document.querySelector('.form');
     const resultado = document.querySelector('.resultado');
